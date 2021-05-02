@@ -1,0 +1,33 @@
+mainDeployment:
+  replicaCount: 2
+  containers:
+    app:
+      pullPolicy: IfNotPresent
+      image:
+        repository: jordanyong/sandbox-product-service
+      ports:
+        - name: http
+          containerPort: 4003
+      resources:
+        limits:
+          cpu: 50m
+          memory: 64Mi
+        requests:
+          cpu: 50m
+          memory: 64Mi
+
+service:
+  ports:
+    - port: 80
+      targetPort: 4003
+      protocol: TCP
+      name: http
+
+hpa:
+  minReplicas: 1
+  maxReplicas: 5
+  metrics:
+    - pods:
+        metricName: "pod_name:container_cpu_usage:ratio"
+        targetAverageValue: 0.6
+      type: "Pods"

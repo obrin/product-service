@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Filter - Coffee",
+    "upc": "SVZ-786-970-170-814",
+    "price": 920,
+    "weight": 1340
+  },
+  {
+    "id": 2,
+    "name": "Carbonated Water - Peach",
+    "upc": "PPM-803-020-140-668",
+    "price": 9728,
+    "weight": 3179
+  },
+  {
+    "id": 3,
+    "name": "Parasol Pick Stir Stick",
+    "upc": "FXE-676-446-936-525",
+    "price": 8148,
+    "weight": 5469
+  },
+  {
+    "id": 4,
+    "name": "Juice - Tomato, 48 Oz",
+    "upc": "RBL-152-158-297-487",
+    "price": 6810,
+    "weight": 6683
+  },
+  {
+    "id": 5,
+    "name": "Icecream - Dstk Super Cone",
+    "upc": "XGZ-312-321-928-627",
+    "price": 8764,
+    "weight": 4411
+  },
+  {
+    "id": 6,
+    "name": "Chutney Sauce",
+    "upc": "UGF-537-031-070-697",
+    "price": 7531,
+    "weight": 9011
+  },
+  {
+    "id": 7,
+    "name": "Beef - Baby, Liver",
+    "upc": "IVP-198-451-787-457",
+    "price": 3947,
+    "weight": 8898
+  },
+  {
+    "id": 8,
+    "name": "Wine - Saint - Bris 2002, Sauv",
+    "upc": "PYS-370-409-568-334",
+    "price": 9349,
+    "weight": 2508
+  },
+  {
+    "id": 9,
+    "name": "Bread - Crusty Italian Poly",
+    "upc": "SYF-404-028-374-335",
+    "price": 2102,
+    "weight": 8918
+  },
+  {
+    "id": 10,
+    "name": "Coffee Cup 12oz 5342cd",
+    "upc": "ROS-898-626-883-422",
+    "price": 7052,
+    "weight": 7570
+  },
+  {
+    "id": 11,
+    "name": "Tray - 16in Rnd Blk",
+    "upc": "EBN-313-417-312-311",
+    "price": 5157,
+    "weight": 9827
+  },
+  {
+    "id": 12,
+    "name": "Vinegar - White",
+    "upc": "SMU-851-963-607-388",
+    "price": 269,
+    "weight": 3602
+  },
+  {
+    "id": 13,
+    "name": "Shark - Loin",
+    "upc": "QUE-875-330-788-035",
+    "price": 6129,
+    "weight": 2271
+  },
+  {
+    "id": 14,
+    "name": "Wine - Cotes Du Rhone",
+    "upc": "MSV-277-468-194-829",
+    "price": 4620,
+    "weight": 7394
+  },
+  {
+    "id": 15,
+    "name": "Potatoes - Fingerling 4 Oz",
+    "upc": "WLQ-254-804-770-323",
+    "price": 9761,
+    "weight": 1085
+  },
+  {
+    "id": 16,
+    "name": "Wood Chips - Regular",
+    "upc": "KPG-841-850-036-724",
+    "price": 8411,
+    "weight": 6937
+  },
+  {
+    "id": 17,
+    "name": "Flour - Teff",
+    "upc": "CDH-266-180-839-114",
+    "price": 2019,
+    "weight": 1490
+  },
+  {
+    "id": 18,
+    "name": "Wine - Jackson Triggs Okonagan",
+    "upc": "VQG-394-026-273-314",
+    "price": 1343,
+    "weight": 6968
+  },
+  {
+    "id": 19,
+    "name": "Beer - Labatt Blue",
+    "upc": "PQJ-120-383-112-691",
+    "price": 4589,
+    "weight": 5699
+  },
+  {
+    "id": 20,
+    "name": "Ecolab - Ster Bac",
+    "upc": "TNI-343-633-459-933",
+    "price": 2345,
+    "weight": 5714
+  },
+  {
+    "id": 21,
+    "name": "Oil - Truffle, Black",
+    "upc": "NWO-054-190-318-090",
+    "price": 7456,
+    "weight": 5833
+  },
+  {
+    "id": 22,
+    "name": "Table Cloth 120 Round White",
+    "upc": "VNS-385-282-773-296",
+    "price": 6652,
+    "weight": 1763
+  },
+  {
+    "id": 23,
+    "name": "Placemat - Scallop, White",
+    "upc": "KHC-050-303-314-443",
+    "price": 2539,
+    "weight": 8551
+  },
+  {
+    "id": 24,
+    "name": "Cheese - Grie Des Champ",
+    "upc": "MJE-492-058-539-360",
+    "price": 2939,
+    "weight": 2
+  },
+  {
+    "id": 25,
+    "name": "Lamb - Shoulder",
+    "upc": "VJX-469-587-518-059",
+    "price": 4207,
+    "weight": 1112
+  },
+  {
+    "id": 26,
+    "name": "Bread - Flat Bread",
+    "upc": "INP-276-629-714-763",
+    "price": 9429,
+    "weight": 7387
+  },
+  {
+    "id": 27,
+    "name": "Vodka - Hot, Lnferno",
+    "upc": "MON-719-772-073-118",
+    "price": 628,
+    "weight": 4201
+  },
+  {
+    "id": 28,
+    "name": "Tea - Herbal - 6 Asst",
+    "upc": "LAB-711-739-402-239",
+    "price": 4474,
+    "weight": 4940
+  },
+  {
+    "id": 29,
+    "name": "Mousse - Banana Chocolate",
+    "upc": "QCS-593-292-288-281",
+    "price": 2385,
+    "weight": 9978
+  },
+  {
+    "id": 30,
+    "name": "Roe - Lump Fish, Black",
+    "upc": "QVM-702-065-020-901",
+    "price": 2286,
+    "weight": 1840
+  },
+  {
+    "id": 31,
+    "name": "Gatorade - Fruit Punch",
+    "upc": "NOS-836-818-530-301",
+    "price": 4479,
+    "weight": 4106
+  },
+  {
+    "id": 32,
+    "name": "Pork - Inside",
+    "upc": "MRW-656-050-759-931",
+    "price": 775,
+    "weight": 6254
+  },
+  {
+    "id": 33,
+    "name": "Wine - Chablis 2003 Champs",
+    "upc": "UBM-504-826-438-926",
+    "price": 7933,
+    "weight": 8496
+  },
+  {
+    "id": 34,
+    "name": "Basil - Thai",
+    "upc": "ZSJ-318-745-617-549",
+    "price": 2379,
+    "weight": 4669
+  },
+  {
+    "id": 35,
+    "name": "Lamb - Pieces, Diced",
+    "upc": "LJK-630-898-787-574",
+    "price": 7237,
+    "weight": 328
+  },
+  {
+    "id": 36,
+    "name": "Apple - Delicious, Red",
+    "upc": "MMQ-554-150-207-768",
+    "price": 8922,
+    "weight": 9587
+  },
+  {
+    "id": 37,
+    "name": "Ranchero - Primerba, Paste",
+    "upc": "GDV-288-601-681-242",
+    "price": 5512,
+    "weight": 9367
+  },
+  {
+    "id": 38,
+    "name": "Oil - Olive Bertolli",
+    "upc": "YFO-611-432-026-673",
+    "price": 7576,
+    "weight": 929
+  },
+  {
+    "id": 39,
+    "name": "Tomatoes - Diced, Canned",
+    "upc": "IYA-459-742-122-206",
+    "price": 4839,
+    "weight": 583
+  },
+  {
+    "id": 40,
+    "name": "Vacuum Bags 12x16",
+    "upc": "IXM-301-931-330-616",
+    "price": 6128,
+    "weight": 7097
+  },
+  {
+    "id": 41,
+    "name": "Soup V8 Roasted Red Pepper",
+    "upc": "BKP-247-525-699-377",
+    "price": 7824,
+    "weight": 7959
+  },
+  {
+    "id": 42,
+    "name": "Cocktail Napkin Blue",
+    "upc": "CRS-318-135-428-506",
+    "price": 8322,
+    "weight": 3982
+  },
+  {
+    "id": 43,
+    "name": "Chocolate - Chips Compound",
+    "upc": "BCD-193-560-826-398",
+    "price": 9091,
+    "weight": 8969
+  },
+  {
+    "id": 44,
+    "name": "Ginger - Fresh",
+    "upc": "UQD-032-717-394-362",
+    "price": 1607,
+    "weight": 7056
+  },
+  {
+    "id": 45,
+    "name": "Milk Powder",
+    "upc": "HKL-477-232-439-711",
+    "price": 2020,
+    "weight": 4838
+  },
+  {
+    "id": 46,
+    "name": "Chestnuts - Whole,canned",
+    "upc": "KDF-984-518-191-873",
+    "price": 5567,
+    "weight": 86
+  },
+  {
+    "id": 47,
+    "name": "Artichokes - Jerusalem",
+    "upc": "MOD-243-413-840-228",
+    "price": 8873,
+    "weight": 778
+  },
+  {
+    "id": 48,
+    "name": "Wine - Conde De Valdemar",
+    "upc": "UZO-222-016-631-366",
+    "price": 8458,
+    "weight": 2250
+  },
+  {
+    "id": 49,
+    "name": "Steampan Lid",
+    "upc": "DAA-203-437-409-478",
+    "price": 5854,
+    "weight": 7618
+  },
+  {
+    "id": 50,
+    "name": "Muffin Batt - Ban Dream Zero",
+    "upc": "GPP-651-150-211-694",
+    "price": 8641,
+    "weight": 4475
+  },
+  {
+    "id": 51,
+    "name": "Appetizer - Smoked Salmon / Dill",
+    "upc": "HGN-395-141-958-612",
+    "price": 4481,
+    "weight": 2174
+  },
+  {
+    "id": 52,
+    "name": "Island Oasis - Pina Colada",
+    "upc": "VSS-459-840-128-132",
+    "price": 8728,
+    "weight": 9054
+  },
+  {
+    "id": 53,
+    "name": "Cod - Salted, Boneless",
+    "upc": "LXE-583-792-578-559",
+    "price": 5881,
+    "weight": 1657
+  },
+  {
+    "id": 54,
+    "name": "Bread Sour Rolls",
+    "upc": "PAF-992-320-522-024",
+    "price": 2685,
+    "weight": 2806
+  },
+  {
+    "id": 55,
+    "name": "Pie Filling - Pumpkin",
+    "upc": "GPG-315-297-279-950",
+    "price": 8665,
+    "weight": 8785
+  },
+  {
+    "id": 56,
+    "name": "Beer - True North Strong Ale",
+    "upc": "DGL-576-892-881-090",
+    "price": 9349,
+    "weight": 2536
+  },
+  {
+    "id": 57,
+    "name": "Wine - Chianti Classico Riserva",
+    "upc": "ISC-723-840-538-178",
+    "price": 9323,
+    "weight": 2408
+  },
+  {
+    "id": 58,
+    "name": "Cherries - Bing, Canned",
+    "upc": "TOY-097-832-204-131",
+    "price": 7529,
+    "weight": 688
+  },
+  {
+    "id": 59,
+    "name": "Wine - Crozes Hermitage E.",
+    "upc": "RJC-170-556-452-227",
+    "price": 779,
+    "weight": 7009
+  },
+  {
+    "id": 60,
+    "name": "Soap - Mr.clean Floor Soap",
+    "upc": "FZX-312-161-040-142",
+    "price": 9589,
+    "weight": 8953
+  },
+  {
+    "id": 61,
+    "name": "Radish - Black, Winter, Organic",
+    "upc": "TTR-662-661-473-086",
+    "price": 2912,
+    "weight": 9270
+  },
+  {
+    "id": 62,
+    "name": "Remy Red Berry Infusion",
+    "upc": "NXR-533-927-331-102",
+    "price": 1536,
+    "weight": 2987
+  },
+  {
+    "id": 63,
+    "name": "Pastry - Banana Muffin - Mini",
+    "upc": "HAD-329-168-934-424",
+    "price": 6256,
+    "weight": 6492
+  },
+  {
+    "id": 64,
+    "name": "Rice Pilaf, Dry,package",
+    "upc": "IHH-167-979-803-479",
+    "price": 6227,
+    "weight": 6289
+  },
+  {
+    "id": 65,
+    "name": "Pasta - Rotini, Dry",
+    "upc": "UEB-092-354-701-666",
+    "price": 9053,
+    "weight": 1619
+  },
+  {
+    "id": 66,
+    "name": "Bread - Roll, Canadian Dinner",
+    "upc": "DMK-916-656-562-173",
+    "price": 3413,
+    "weight": 9566
+  },
+  {
+    "id": 67,
+    "name": "Raspberries - Fresh",
+    "upc": "DSO-956-050-017-068",
+    "price": 3778,
+    "weight": 2613
+  },
+  {
+    "id": 68,
+    "name": "Pepper - Red Chili",
+    "upc": "EIS-958-172-065-060",
+    "price": 6844,
+    "weight": 8262
+  },
+  {
+    "id": 69,
+    "name": "Oil - Truffle, Black",
+    "upc": "JVT-328-519-871-537",
+    "price": 9217,
+    "weight": 7856
+  },
+  {
+    "id": 70,
+    "name": "Oil - Olive Bertolli",
+    "upc": "AYX-718-978-192-480",
+    "price": 1622,
+    "weight": 9841
+  },
+  {
+    "id": 71,
+    "name": "Juice - Mango",
+    "upc": "NAS-317-539-670-407",
+    "price": 7963,
+    "weight": 7954
+  },
+  {
+    "id": 72,
+    "name": "Liqueur - Melon",
+    "upc": "FJP-243-924-018-442",
+    "price": 5630,
+    "weight": 8665
+  },
+  {
+    "id": 73,
+    "name": "Oil - Truffle, White",
+    "upc": "LFE-853-955-553-306",
+    "price": 2978,
+    "weight": 4241
+  },
+  {
+    "id": 74,
+    "name": "Juice - Orangina",
+    "upc": "IOV-234-955-450-397",
+    "price": 9675,
+    "weight": 635
+  },
+  {
+    "id": 75,
+    "name": "Cabbage - Savoy",
+    "upc": "VYP-738-759-039-243",
+    "price": 4195,
+    "weight": 9375
+  },
+  {
+    "id": 76,
+    "name": "Grenadine",
+    "upc": "NAW-969-120-309-450",
+    "price": 5499,
+    "weight": 2764
+  },
+  {
+    "id": 77,
+    "name": "Bread - Rosemary Focaccia",
+    "upc": "EDG-007-504-153-820",
+    "price": 2380,
+    "weight": 2766
+  },
+  {
+    "id": 78,
+    "name": "Wine - Pinot Noir Pond Haddock",
+    "upc": "HKE-835-796-343-113",
+    "price": 8188,
+    "weight": 9323
+  },
+  {
+    "id": 79,
+    "name": "Salt - Table",
+    "upc": "JGM-216-640-056-329",
+    "price": 2805,
+    "weight": 3365
+  },
+  {
+    "id": 80,
+    "name": "Cheese Cloth",
+    "upc": "NVR-830-813-213-150",
+    "price": 686,
+    "weight": 138
+  },
+  {
+    "id": 81,
+    "name": "Spice - Peppercorn Melange",
+    "upc": "IXA-719-974-131-720",
+    "price": 9250,
+    "weight": 7507
+  },
+  {
+    "id": 82,
+    "name": "Molasses - Fancy",
+    "upc": "GEQ-293-179-211-061",
+    "price": 8531,
+    "weight": 7801
+  },
+  {
+    "id": 83,
+    "name": "Cake - Pancake",
+    "upc": "DCJ-150-989-113-825",
+    "price": 9123,
+    "weight": 4832
+  },
+  {
+    "id": 84,
+    "name": "Water - San Pellegrino",
+    "upc": "TDN-045-229-116-510",
+    "price": 2875,
+    "weight": 1852
+  },
+  {
+    "id": 85,
+    "name": "Eggplant Italian",
+    "upc": "RWD-902-505-010-068",
+    "price": 9409,
+    "weight": 3877
+  },
+  {
+    "id": 86,
+    "name": "Wine - Pinot Noir Mondavi Coastal",
+    "upc": "UGJ-721-811-434-743",
+    "price": 7865,
+    "weight": 2797
+  },
+  {
+    "id": 87,
+    "name": "Lamb - Sausage Casings",
+    "upc": "GPM-843-459-748-485",
+    "price": 443,
+    "weight": 5372
+  },
+  {
+    "id": 88,
+    "name": "Mushroom - Lg - Cello",
+    "upc": "CJY-063-806-633-059",
+    "price": 7027,
+    "weight": 1094
+  },
+  {
+    "id": 89,
+    "name": "Dc - Sakura Fu",
+    "upc": "FXI-389-417-633-019",
+    "price": 4990,
+    "weight": 8479
+  },
+  {
+    "id": 90,
+    "name": "Pastry - Key Limepoppy Seed Tea",
+    "upc": "ZVF-411-499-479-137",
+    "price": 6713,
+    "weight": 1102
+  },
+  {
+    "id": 91,
+    "name": "Container - Clear 16 Oz",
+    "upc": "ZEW-681-244-568-206",
+    "price": 8177,
+    "weight": 1880
+  },
+  {
+    "id": 92,
+    "name": "Loaf Pan - 2 Lb, Foil",
+    "upc": "QYP-258-174-262-696",
+    "price": 125,
+    "weight": 5394
+  },
+  {
+    "id": 93,
+    "name": "Wine - Chablis 2003 Champs",
+    "upc": "EXA-026-880-277-594",
+    "price": 9372,
+    "weight": 2194
+  },
+  {
+    "id": 94,
+    "name": "Wine - White, Chardonnay",
+    "upc": "IZE-322-726-328-965",
+    "price": 2043,
+    "weight": 3035
+  },
+  {
+    "id": 95,
+    "name": "Chicken - Ground",
+    "upc": "GMV-147-016-763-370",
+    "price": 6403,
+    "weight": 9294
+  },
+  {
+    "id": 96,
+    "name": "Tomato - Green",
+    "upc": "QCI-737-940-818-518",
+    "price": 6199,
+    "weight": 2716
+  },
+  {
+    "id": 97,
+    "name": "Yeast Dry - Fermipan",
+    "upc": "MUF-012-472-420-158",
+    "price": 6758,
+    "weight": 9650
+  },
+  {
+    "id": 98,
+    "name": "Cod - Salted, Boneless",
+    "upc": "RFX-912-191-564-767",
+    "price": 8896,
+    "weight": 9111
+  },
+  {
+    "id": 99,
+    "name": "Shrimp - 16 - 20 Cooked, Peeled",
+    "upc": "ZWB-967-163-867-269",
+    "price": 5999,
+    "weight": 2905
+  },
+  {
+    "id": 100,
+    "name": "Capers - Pickled",
+    "upc": "NPY-710-075-823-585",
+    "price": 2916,
+    "weight": 2995
+  }
+]
