@@ -4,7 +4,7 @@ mainDeployment:
     app:
       pullPolicy: IfNotPresent
       image:
-        repository: jordanyong/sample--product-service
+        repository: jordanyong/sample-product-service
       ports:
         - name: http
           containerPort: 4003
